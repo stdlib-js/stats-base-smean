@@ -12,6 +12,7 @@
 
 <details>
 
+-   [`2c21ab9`](https://github.com/stdlib-js/stdlib/commit/2c21ab92d51ebb70bff14002ae706de5110b92d1) - **refactor:** update paths _(by Aayush Khanna)_
 -   [`1d8b212`](https://github.com/stdlib-js/stdlib/commit/1d8b2124adec6be1f3d639ab0b53146a7539f243) - **refactor:** update paths _(by Aayush Khanna)_
 -   [`f0b0632`](https://github.com/stdlib-js/stdlib/commit/f0b063248ed3a92419db56ee3b3a1c78bb72db94) - **refactor:** update `stats/base/smean` native addon from C++ to C [(#4462)](https://github.com/stdlib-js/stdlib/pull/4462) _(by Vivek Maurya)_
 -   [`62364f6`](https://github.com/stdlib-js/stdlib/commit/62364f62ea823a3b52c2ad25660ecd80c71f8f36) - **style:** fix C comment alignment _(by Philipp Burckhardt)_
