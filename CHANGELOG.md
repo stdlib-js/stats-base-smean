@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-01-02)
+## Unreleased (2025-03-29)
 
 <section class="commits">
 
@@ -12,7 +12,8 @@
 
 <details>
 
--   [`f0b0632`](https://github.com/stdlib-js/stdlib/commit/f0b063248ed3a92419db56ee3b3a1c78bb72db94) - **refactor:** update `stats/base/smean` native addon from C++ to C [(#4462)](https://github.com/stdlib-js/stdlib/pull/4462) _(by Vivek maurya)_
+-   [`1d8b212`](https://github.com/stdlib-js/stdlib/commit/1d8b2124adec6be1f3d639ab0b53146a7539f243) - **refactor:** update paths _(by Aayush Khanna)_
+-   [`f0b0632`](https://github.com/stdlib-js/stdlib/commit/f0b063248ed3a92419db56ee3b3a1c78bb72db94) - **refactor:** update `stats/base/smean` native addon from C++ to C [(#4462)](https://github.com/stdlib-js/stdlib/pull/4462) _(by Vivek Maurya)_
 -   [`62364f6`](https://github.com/stdlib-js/stdlib/commit/62364f62ea823a3b52c2ad25660ecd80c71f8f36) - **style:** fix C comment alignment _(by Philipp Burckhardt)_
 -   [`9e689ff`](https://github.com/stdlib-js/stdlib/commit/9e689ffcb7c6223afc521f1e574b42f10921cf5e) - **chore:** fix indentation in manifest.json files _(by Philipp Burckhardt)_
 -   [`272ae7a`](https://github.com/stdlib-js/stdlib/commit/272ae7ac5c576c68cfab1b6e304c86407faa20cd) - **docs:** remove comment _(by Athan Reines)_
@@ -28,11 +29,12 @@
 
 ### Contributors
 
-A total of 3 people contributed to this release. Thank you to the following contributors:
+A total of 4 people contributed to this release. Thank you to the following contributors:
 
+-   Aayush Khanna
 -   Athan Reines
 -   Philipp Burckhardt
--   Vivek maurya
+-   Vivek Maurya
 
 </section>
 
