@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-03-29)
+## Unreleased (2025-04-26)
 
 <section class="commits">
 
@@ -12,6 +12,7 @@
 
 <details>
 
+-   [`9f85b5d`](https://github.com/stdlib-js/stdlib/commit/9f85b5d90cb6fcaf052116cd06aa4a693757f0ec) - **test:** fix description _(by Philipp Burckhardt)_
 -   [`2c21ab9`](https://github.com/stdlib-js/stdlib/commit/2c21ab92d51ebb70bff14002ae706de5110b92d1) - **refactor:** update paths _(by Aayush Khanna)_
 -   [`1d8b212`](https://github.com/stdlib-js/stdlib/commit/1d8b2124adec6be1f3d639ab0b53146a7539f243) - **refactor:** update paths _(by Aayush Khanna)_
 -   [`f0b0632`](https://github.com/stdlib-js/stdlib/commit/f0b063248ed3a92419db56ee3b3a1c78bb72db94) - **refactor:** update `stats/base/smean` native addon from C++ to C [(#4462)](https://github.com/stdlib-js/stdlib/pull/4462) _(by Vivek Maurya)_
