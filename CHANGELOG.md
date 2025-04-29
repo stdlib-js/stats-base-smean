@@ -4,7 +4,17 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-04-26)
+## Unreleased (2025-04-29)
+
+<section class="features">
+
+### Features
+
+-   [`9421794`](https://github.com/stdlib-js/stdlib/commit/942179479d7e9d6dae38cf4a187690856d43c022) - add C ndarray interface and refactor implementation for `stats/base/smean` [(#6814)](https://github.com/stdlib-js/stdlib/pull/6814)
+
+</section>
+
+<!-- /.features -->
 
 <section class="commits">
 
@@ -12,6 +22,7 @@
 
 <details>
 
+-   [`9421794`](https://github.com/stdlib-js/stdlib/commit/942179479d7e9d6dae38cf4a187690856d43c022) - **feat:** add C ndarray interface and refactor implementation for `stats/base/smean` [(#6814)](https://github.com/stdlib-js/stdlib/pull/6814) _(by Gururaj Gurram, stdlib-bot, Aayush Khanna)_
 -   [`9f85b5d`](https://github.com/stdlib-js/stdlib/commit/9f85b5d90cb6fcaf052116cd06aa4a693757f0ec) - **test:** fix description _(by Philipp Burckhardt)_
 -   [`2c21ab9`](https://github.com/stdlib-js/stdlib/commit/2c21ab92d51ebb70bff14002ae706de5110b92d1) - **refactor:** update paths _(by Aayush Khanna)_
 -   [`1d8b212`](https://github.com/stdlib-js/stdlib/commit/1d8b2124adec6be1f3d639ab0b53146a7539f243) - **refactor:** update paths _(by Aayush Khanna)_
@@ -31,10 +42,11 @@
 
 ### Contributors
 
-A total of 4 people contributed to this release. Thank you to the following contributors:
+A total of 5 people contributed to this release. Thank you to the following contributors:
 
 -   Aayush Khanna
 -   Athan Reines
+-   Gururaj Gurram
 -   Philipp Burckhardt
 -   Vivek Maurya
 
