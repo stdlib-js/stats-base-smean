@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-06-04)
+## Unreleased (2025-06-08)
 
 <section class="features">
 
@@ -22,6 +22,7 @@
 
 <details>
 
+-   [`2427cd6`](https://github.com/stdlib-js/stdlib/commit/2427cd69540f848b9bd04134ff5ba5cb53b602f3) - **refactor:** update paths _(by Gururaj Gurram)_
 -   [`744337a`](https://github.com/stdlib-js/stdlib/commit/744337aaebfd4a9631f17765bce57a38c5374173) - **refactor:** update paths _(by Gururaj Gurram)_
 -   [`9421794`](https://github.com/stdlib-js/stdlib/commit/942179479d7e9d6dae38cf4a187690856d43c022) - **feat:** add C ndarray interface and refactor implementation for `stats/base/smean` [(#6814)](https://github.com/stdlib-js/stdlib/pull/6814) _(by Gururaj Gurram, stdlib-bot, Aayush Khanna)_
 -   [`9f85b5d`](https://github.com/stdlib-js/stdlib/commit/9f85b5d90cb6fcaf052116cd06aa4a693757f0ec) - **test:** fix description _(by Philipp Burckhardt)_

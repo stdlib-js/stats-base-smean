@@ -48,7 +48,7 @@
     "@stdlib/napi-argv-strided-float32array": "^0.2.2",
     "@stdlib/napi-create-double": "^0.0.2",
     "@stdlib/napi-export": "^0.2.2",
-    "@stdlib/stats-base-smeanpn": "^0.2.2",
+    "@stdlib/stats-strided-smeanpn": "github:stdlib-js/stats-strided-smeanpn#main",
     "@stdlib/strided-base-stride2offset": "^0.1.0",
     "@stdlib/utils-define-nonenumerable-read-only-property": "^0.2.2",
     "@stdlib/utils-library-manifest": "^0.2.2",
